@@ -1,0 +1,23 @@
+{
+  "shop": {
+    "name": "Demo Coffee",
+    "about": "Fresh coffee and homemade desserts, delivered across the city or ready for pickup.",
+    "contact": "📍 12 Example Street\n🕘 Every day 9:00–21:00\n📞 +1 555 010 0000"
+  },
+  "categories": [
+    { "id": "coffee", "title": "☕ Coffee" },
+    { "id": "desserts", "title": "🍰 Desserts" },
+    { "id": "drinks", "title": "🥤 Cold drinks" }
+  ],
+  "products": [
+    { "id": "espresso", "category": "coffee", "name": "Espresso", "price": 2.0, "description": "A short, strong shot of our house blend.", "image": "" },
+    { "id": "cappuccino", "category": "coffee", "name": "Cappuccino", "price": 3.2, "description": "Espresso with steamed milk and a thick layer of foam.", "image": "" },
+    { "id": "latte", "category": "coffee", "name": "Latte", "price": 3.5, "description": "Mild and creamy, with plenty of steamed milk.", "image": "" },
+    { "id": "flatwhite", "category": "coffee", "name": "Flat White", "price": 3.8, "description": "Double ristretto with velvety milk.", "image": "" },
+    { "id": "cheesecake", "category": "desserts", "name": "Cheesecake", "price": 4.5, "description": "Classic New York cheesecake with a biscuit base.", "image": "" },
+    { "id": "brownie", "category": "desserts", "name": "Brownie", "price": 3.0, "description": "Dark chocolate brownie, soft in the middle.", "image": "" },
+    { "id": "croissant", "category": "desserts", "name": "Croissant", "price": 2.5, "description": "Butter croissant, baked every morning.", "image": "" },
+    { "id": "lemonade", "category": "drinks", "name": "Homemade Lemonade", "price": 3.0, "description": "Lemon, mint and a little honey.", "image": "" },
+    { "id": "icedlatte", "category": "drinks", "name": "Iced Latte", "price": 4.0, "description": "Espresso and cold milk over ice.", "image": "" }
+  ]
+}

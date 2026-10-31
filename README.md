@@ -4,7 +4,9 @@ A ready-to-use Telegram bot for small shops, cafés and Instagram sellers. Custo
 
 Built with **Node.js** and **[grammY](https://grammy.dev)**.
 
-<!-- Add a screenshot or GIF here, e.g. ![demo](docs/demo.gif) -->
+![Customers pick products and review the cart](docs/catalog-and-cart.webp)
+
+![Customer confirms the order, the owner manages it](docs/checkout-and-admin.webp)
 
 ## Features
 
